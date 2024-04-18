@@ -79,6 +79,12 @@ En el bucle principal ''loop()'', primero verifica si el botón està presionado
   <source src="OlaColoresLEDs.mp4" type="video/mp4">
   Tu navegador no admite la reproducción de videos.
 </video>
+<br>
+En caso de que no se muestre el video por GitHub se puede descargar por aqui: 
+
+[![VideoLink](OlaColoresLEDs.mp4)](OlaColoresLEDs.mp4)
+
+
 
 
 ## Conclusión: 
