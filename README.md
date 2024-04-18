@@ -6,7 +6,7 @@
 ## Materiales: 
 - ESP32-S3
 - 5 LEDs (azules)
-- 5 resistencias 150 Ohm
+- 5 resistencias 220 Ohm
 ## Procedimiento: 
 **Código:**<br> 
 ``` cpp
@@ -70,8 +70,6 @@ En el bucle principal ''loop()'', primero verifica si el botón està presionado
 ```
 
 ## Video: 
-[Video](C:\Users\nrpar_v1fdg6m\OneDrive\Documentos\PlatformIO\Projects\OlaColores_LEDs\OlaColoresLEDs.mp4);
-
 
 ## Conclusión: 
 Cuando se presiona el botón, los LEDs se encenderán uno tras otro en orden ascendente y luego se apagarán en el mismo orden descendente, creando así el efecto visual de una "ola" de luz.
