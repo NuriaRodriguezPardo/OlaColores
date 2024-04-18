@@ -69,7 +69,17 @@ En el bucle principal ''loop()'', primero verifica si el botón està presionado
         C -- Botón no presionado --> C;
 ```
 
+## Foto de montage: 
+
+<img src="Montage.png" width="640" height="360" controls >
+
 ## Video: 
+
+<video width="640" height="360" controls>
+  <source src="OlaColoresLEDs.mp4" type="video/mp4">
+  Tu navegador no admite la reproducción de videos.
+</video>
+
 
 ## Conclusión: 
 Cuando se presiona el botón, los LEDs se encenderán uno tras otro en orden ascendente y luego se apagarán en el mismo orden descendente, creando así el efecto visual de una "ola" de luz.
